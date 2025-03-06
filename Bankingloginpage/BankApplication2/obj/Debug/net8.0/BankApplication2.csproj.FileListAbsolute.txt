@@ -1,0 +1,14 @@
+C:\webapi\Bankingloginpage\BankApplication2\bin\Debug\net8.0\BankApplication2.exe
+C:\webapi\Bankingloginpage\BankApplication2\bin\Debug\net8.0\BankApplication2.deps.json
+C:\webapi\Bankingloginpage\BankApplication2\bin\Debug\net8.0\BankApplication2.runtimeconfig.json
+C:\webapi\Bankingloginpage\BankApplication2\bin\Debug\net8.0\BankApplication2.dll
+C:\webapi\Bankingloginpage\BankApplication2\bin\Debug\net8.0\BankApplication2.pdb
+C:\webapi\Bankingloginpage\BankApplication2\obj\Debug\net8.0\BankApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\webapi\Bankingloginpage\BankApplication2\obj\Debug\net8.0\BankApplication2.AssemblyInfoInputs.cache
+C:\webapi\Bankingloginpage\BankApplication2\obj\Debug\net8.0\BankApplication2.AssemblyInfo.cs
+C:\webapi\Bankingloginpage\BankApplication2\obj\Debug\net8.0\BankApplication2.csproj.CoreCompileInputs.cache
+C:\webapi\Bankingloginpage\BankApplication2\obj\Debug\net8.0\BankApplication2.dll
+C:\webapi\Bankingloginpage\BankApplication2\obj\Debug\net8.0\refint\BankApplication2.dll
+C:\webapi\Bankingloginpage\BankApplication2\obj\Debug\net8.0\BankApplication2.pdb
+C:\webapi\Bankingloginpage\BankApplication2\obj\Debug\net8.0\BankApplication2.genruntimeconfig.cache
+C:\webapi\Bankingloginpage\BankApplication2\obj\Debug\net8.0\ref\BankApplication2.dll

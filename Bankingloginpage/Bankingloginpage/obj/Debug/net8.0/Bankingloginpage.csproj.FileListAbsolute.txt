@@ -1,0 +1,14 @@
+C:\webapi\Bankingloginpage\Bankingloginpage\bin\Debug\net8.0\Bankingloginpage.exe
+C:\webapi\Bankingloginpage\Bankingloginpage\bin\Debug\net8.0\Bankingloginpage.deps.json
+C:\webapi\Bankingloginpage\Bankingloginpage\bin\Debug\net8.0\Bankingloginpage.runtimeconfig.json
+C:\webapi\Bankingloginpage\Bankingloginpage\bin\Debug\net8.0\Bankingloginpage.dll
+C:\webapi\Bankingloginpage\Bankingloginpage\bin\Debug\net8.0\Bankingloginpage.pdb
+C:\webapi\Bankingloginpage\Bankingloginpage\obj\Debug\net8.0\Bankingloginpage.GeneratedMSBuildEditorConfig.editorconfig
+C:\webapi\Bankingloginpage\Bankingloginpage\obj\Debug\net8.0\Bankingloginpage.AssemblyInfoInputs.cache
+C:\webapi\Bankingloginpage\Bankingloginpage\obj\Debug\net8.0\Bankingloginpage.AssemblyInfo.cs
+C:\webapi\Bankingloginpage\Bankingloginpage\obj\Debug\net8.0\Bankingloginpage.csproj.CoreCompileInputs.cache
+C:\webapi\Bankingloginpage\Bankingloginpage\obj\Debug\net8.0\Bankingloginpage.dll
+C:\webapi\Bankingloginpage\Bankingloginpage\obj\Debug\net8.0\refint\Bankingloginpage.dll
+C:\webapi\Bankingloginpage\Bankingloginpage\obj\Debug\net8.0\Bankingloginpage.pdb
+C:\webapi\Bankingloginpage\Bankingloginpage\obj\Debug\net8.0\Bankingloginpage.genruntimeconfig.cache
+C:\webapi\Bankingloginpage\Bankingloginpage\obj\Debug\net8.0\ref\Bankingloginpage.dll
